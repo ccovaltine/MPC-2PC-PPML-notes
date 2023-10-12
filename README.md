@@ -40,7 +40,7 @@
 | :---- | :--------------------------------------------------------------------------------- | :--------------- | :------------- | --------------- |
 |       | :star: Pushing the Communication Barrier in Secure Computation using Lookup Tables | Ghada Dessouky   | NDSS 2017      |                 |
 
-### 1.2 other resources 
+### 1.2 other resources
 
 | Theme       | Title                                                                                                                                                | Year | Key Description                                                                                                                          | Author                                                            |
 | :---------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :--- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
@@ -51,8 +51,8 @@
 | GC          | [调试电路编译器CBMC-GC以及ABY时遇到的问题及解决办法](https://zhuanlan.zhihu.com/p/150512905)                                                         | 2022 | CBMC-GC：一个能把C程序转换成布尔电路的电路编译器                                                                                         | [向往的生活 @知乎](https://www.zhihu.com/people/qin-hong-75-76)   |
 | GC          | [混淆电路介绍（三）混淆电路原理](https://zhuanlan.zhihu.com/p/138371497)                                                                             | 2020 |                                                                                                                                          | [Yang Yang @知乎](https://www.zhihu.com/people/tonyyang-svail-41) |
 | GMW         | [GMW Protocol](https://zhuanlan.zhihu.com/p/237061306)                                                                                               | 2020 | ①由2选1-OT构造n选1-OT（复杂度O(n)）；②用n选1-OT安全计算任意constant size函数；③GMW Protocol                                              | [Yang Yang @知乎](https://www.zhihu.com/people/tonyyang-svail-41) |
-| :star: SPDZ |                                                                                                                                                      |      |                                                                                                                                          |                                                                   |                                                                   
-| :star: ABY  |                                                                                                                                                      |      |                                                                                                                                          |                                                                   |                                                                   
+| :star: SPDZ |                                                                                                                                                      |      |                                                                                                                                          |                                                                   |
+| :star: ABY  |                                                                                                                                                      |      |                                                                                                                                          |                                                                   |
 
 ## 2. application: math library (for machine learning/general computation)
 
@@ -100,10 +100,10 @@
 
 ### 3.2 other resources
 
-| Theme | Title                 | Author                                | Year | Key Description                            |
-| :---- | :-------------------- | :------------------------------------ | :--- | ------------------------------------------ |
-|       | :star: [2022 Summer School on PPML](https://www.conferencemanager.dk/ppmlschool2022) | 很多                                     | 2022 | 很多关于PPML的slide |
-|       | EzPC系列论文总结&介绍[【part1】](https://medialib.cmcdn.dk/medialibrary/7B031F9C-64B5-43B7-B5AC-D0DF772C7975/00E11E10-8E32-ED11-84B6-00155D0B0940.pdf)[【part2】](https://medialib.cmcdn.dk/medialibrary/7B031F9C-64B5-43B7-B5AC-D0DF772C7975/516EB609-8E32-ED11-84B6-00155D0B0940.pdf) | Divya Gupta @Microsoft Research India | /    | 介绍CrypTFlow2、SIRNN、Llama、SecFloat |
+| Theme | Title                                                                                                                                                                                                                                                                                   | Author                                | Year | Key Description                        |
+| :---- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------ | :--- | -------------------------------------- |
+| PPML  | :star: [2022 Summer School on PPML](https://www.conferencemanager.dk/ppmlschool2022)                                                                                                                                                                                                    | 很多                                  | 2022 | 很多关于PPML的slide                    |
+| EzPC  | EzPC系列论文总结&介绍[【part1】](https://medialib.cmcdn.dk/medialibrary/7B031F9C-64B5-43B7-B5AC-D0DF772C7975/00E11E10-8E32-ED11-84B6-00155D0B0940.pdf)[【part2】](https://medialib.cmcdn.dk/medialibrary/7B031F9C-64B5-43B7-B5AC-D0DF772C7975/516EB609-8E32-ED11-84B6-00155D0B0940.pdf) | Divya Gupta @Microsoft Research India | /    | 介绍CrypTFlow2、SIRNN、Llama、SecFloat |
 
 ## 4. application: specific scenario
 
@@ -118,4 +118,3 @@
 | Theme | Title | Author | Year | Key Description |
 | :---- | :---- | :----- | :--- | --------------- |
 |       |       |        |      |                 |
-
