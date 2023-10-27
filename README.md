@@ -61,7 +61,7 @@
 | Title                                               | Team/Main Author  | Venue and Year | Security Setting | Key Description |
 | :-------------------------------------------------- | :---------------- | :------------- | :--------------- | --------------- |
 | :star: SIRNN                                        | Deevashwer Rathee | S&P 2021 |                  |                 |
-| :star: SecFloat                                     | Deevashwer Rathee | S&P 2022        |                  |                 |
+| :star: SecFloat                                     | Deevashwer Rathee | S&P 2022        |       2PC, semi-honest           |        通过用四元组表示浮点数，将【浮点数运算】分解为【比特/整数/定点数运算】+【normalization操作】         |
 | :star: Secure Computation on Floating Point Numbers | Mehrdad Aliasgari | NDSS 2013      |                  |                 |
 
 ### 2.2 other resources
